@@ -1,5 +1,5 @@
 html {
-    font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header, footer {
@@ -20,7 +20,7 @@ a {
 }
 
 .headerstyle {
-    font-family: Consolas;
+    font-family: "Times New Roman", Times, serif;
     text-align: center;
     height: 20px;
     padding-top: 5px;
@@ -135,6 +135,7 @@ a {
     height: 30px;
     border: 1px solid #ffffff;
     text-align: center;
+    vertical-align: bottom;
 }
 
 .c-g-l-td1 {
